@@ -49,7 +49,7 @@ The update command will update the templates you have modified. If the modified 
 ./vendor/bin/mybb-template-helper -u "[THEME NAME HERE]" header
 
 # Many templates
-./vendor/bin/mybb-template-helper -u "YOUR THEME NAME" header footer
+./vendor/bin/mybb-template-helper -u "[THEME NAME HERE]" header footer
 ```
 
 Specifying a custom template will only load the template you have selected. No changes will be made to other templates.
